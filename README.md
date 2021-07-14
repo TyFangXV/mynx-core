@@ -13,5 +13,5 @@ A cli to convert your yt playlist to mp3
 
 
 
-##### **but the chances of this to happening will no be common**
+##### **but the chances of this to happening will not be common**
 
