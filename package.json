@@ -1,0 +1,22 @@
+{
+  "name": "yt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "tran": "/src/bin/index.js"
+  },
+  "dependencies": {
+    "image-data-uri": "^2.0.1",
+    "inquirer": "^8.1.1",
+    "node-id3": "^0.2.3",
+    "yt-playlist-scraper": "^1.1.0",
+    "ytdl-core": "^4.8.3"
+  }
+}
